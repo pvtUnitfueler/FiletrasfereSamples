@@ -1,6 +1,6 @@
 # FiletrasfereSamples
 This repository has a wide range of files for testing, they can be usefull in several scenarios like upload testing, mail attachment testing, ...
-File ending /magic bites should be correct on these so all of them actually do something and are not mallisious files, most are hello world examples for executables, for office documents its a picture in them and for pitures. Do not upload or use this files in any neferious ways.
+File ending /magic bites should be correct on these so all of them actually do something and are not mallicious files, most are hello world examples for executables, for office documents its a picture in them and for pitures. Do not upload or use this files in any neferious ways.
 
 Legal disclaimer (CC0 as in the LICENSE, extended by this few words)
 
